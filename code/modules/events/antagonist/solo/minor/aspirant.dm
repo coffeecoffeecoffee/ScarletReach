@@ -9,18 +9,6 @@
 	shared_occurence_type = SHARED_MINOR_THREAT
 	minor_roleset = TRUE
 
-	needed_job = list(
-		"Consort",
-		"Hand",
-		"Prince",
-		"Princess",
-		"Captain",
-		"Marshal",
-		"Sergeant",
-		"Steward",
-		"Court Magician"
-	)
-
 	base_antags = 1
 	maximum_antags = 2
 
