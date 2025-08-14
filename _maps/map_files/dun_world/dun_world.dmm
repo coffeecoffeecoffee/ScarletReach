@@ -1325,6 +1325,10 @@
 /obj/structure/fluff/railing/border,
 /turf/open/floor/rogue/wood,
 /area/rogue/outdoors/beach/forest)
+"avM" = (
+/obj/structure/flora/roguegrass,
+/turf/open/floor/rogue/cobble,
+/area/rogue/indoors/town)
 "avO" = (
 /obj/structure/table/wood{
 	icon_state = "longtable"
@@ -251444,7 +251448,7 @@ gyu
 oJe
 jdu
 jdu
-jdu
+avM
 jdu
 bSF
 uAr
@@ -251902,7 +251906,7 @@ iOV
 lKO
 lKO
 lKO
-sNZ
+quW
 sNZ
 sNZ
 sNZ
